@@ -25,5 +25,6 @@ index.html
 
 ## 演示
 
-![](F:\各种作业\实验作业\编译原理\compiler\lexical-analysis\show.png)
+ ![](https://github.com/Greedddd/lexical-analysis/raw/master/image/1.png)
 
+ ![](https://github.com/Greedddd/lexical-analysis/raw/master/image/2.png)
